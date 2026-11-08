@@ -1,0 +1,1 @@
+:root{--max-content-width: 480px}html,body{margin:0;height:100%;overflow:hidden;background:#000}#menu-canvas{display:block;width:min(100vw,var(--max-content-width));margin:0 auto;height:100vh;height:100dvh;touch-action:none}#perf{position:fixed;top:8px;left:8px;padding:4px 8px;font:12px/1.2 ui-monospace,monospace;color:#fff;background:#0009;border-radius:4px;pointer-events:none}
